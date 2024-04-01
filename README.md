@@ -4,7 +4,7 @@
 
 ## I. OpenAI
 
-[I-1. Organization 구성](wiki/i-1-openai-organization-setting)
+[I-1. Organization 구성](/miracom-genai/devops/wiki/i-1-openai-organization-setting)
 
 ## II. Version Control
 
