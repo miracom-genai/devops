@@ -1,10 +1,10 @@
 # Miracom Gen AI - DEVOPS
 
-> Miracom IT서비스사업부의 GenAI T/F의 DevOps 구성을 정리합니다.
+> Miracom IT서비스사업부 GenAI T/F의 DevOps 구성을 정리합니다.
 
 ## I. OpenAI
 
-[I-1. Organization 구성](miracom-genai/devops/wiki/i-1-openai-organization-setting)
+[I-1. Organization 구성](wiki/i-1-openai-organization-setting)
 
 ## II. Version Control
 
