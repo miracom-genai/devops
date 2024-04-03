@@ -8,7 +8,7 @@
 
 ## II. Version Control
 
-II-1. Branch 전략
+[II-1. Branch 전략](../../wiki/ii-1-github-branch-strategy)
 
 II-2. 코드리뷰 전략
 
